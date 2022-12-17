@@ -3,7 +3,7 @@
 variable "business_divison" {
   description = "Business Divison name is described here"
   type        = string
-  default     = "KPMG"
+  default     = "sap"
 }
 # Environment Variables
 variable "environment" {
